@@ -1,0 +1,2 @@
+# spring-kafka-multithreading-sample
+This is sample project showing how you can make spring-kafka multithreaded without annotations. For more information see: http://www.douevencode.com/articles/2017-12/make-kafka-concurrent/
